@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gbemy-web
-- 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning data analysis with python and sql with Udacity via alx 
+- 👀 I’m a Data analysis 
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 you can reach me via kukoyioluwagbemisola@gmail.com
 
