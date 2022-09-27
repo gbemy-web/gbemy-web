@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbemy-web
-- 👀 I’m a Data analysis 
+- 👀 I’m a Data Analyst 
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 you can reach me via kukoyioluwagbemisola@gmail.com
 
